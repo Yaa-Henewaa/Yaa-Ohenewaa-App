@@ -1,4 +1,5 @@
-# mozapp
+# Ohenewaa App
+## This Project was created from different local repo due to malfunctioning of my machine
 
 A new Flutter project.
 
